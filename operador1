@@ -1,0 +1,10 @@
+{
+    "Usuario": "Operador1",
+    "Marcador": 100,
+    "Velocidad":[
+        "Curva1",
+        "Curva2",
+        "Curva3"
+    ],
+    "Fecha":"Jul 19,2024"
+}
